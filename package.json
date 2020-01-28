@@ -1,0 +1,19 @@
+{
+  "name": "cursobackend",
+  "version": "1.0.0",
+  "description": "Curso de Backend con NodeJS",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node ./src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "API",
+    "NodeJS"
+  ],
+  "author": "Luis Toro",
+  "license": "ISC",
+  "dependencies": {
+    "countries-list": "^2.5.0"
+  }
+}
